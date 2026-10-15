@@ -8,7 +8,7 @@ In dynamic environments, mobile robots must navigate safely while avoiding both 
 
 The simulation integrates proximity sensing, vision processing, and moving cylindrical obstacles to explore navigation in dynamic environments. The robot can navigate toward a predefined goal, but interactions with moving obstacles can push it sideways and cause it to lose balance. This highlights the challenge of maintaining stability while navigating environments with dynamic obstacles.
 
-##Inference:
+## Inference:
 
 The simulation demonstrates that a balancing robot can successfully navigate a structured environment, avoid collisions, and reach its goal position. Through this project, we have demonstrated that a two-wheeled robot with an inverted-pendulum configuration can balance itself, perceive obstacles, and navigate to a goal using a combination of optimal control and simple, reactive logic.
 
