@@ -36,11 +36,11 @@ Overall, the combined system demonstrates how an LQR-based balancing controller 
 
 ## Tools and Technologies
 
-CoppeliaSim
-Python and Lua
-Linear Quadratic Regulator (LQR)
-State-space modeling
-Proximity sensing and vision processing
+- CoppeliaSim
+- Python and Lua
+- Linear Quadratic Regulator (LQR)
+- State-space modeling
+- Proximity sensing and vision processing
 
 ## Resources Referred
 
