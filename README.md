@@ -1,2 +1,2 @@
 # e-Yantra-Self-Balancing-Robot
-LQR-based two-wheeled balancing robot in CoppeliaSim, extended towards autonomous navigation and obstacle avoidance.
+Simulation of a two-wheeled self-balancing robot using LQR control, goal-directed motion, and reactive obstacle avoidance in CoppeliaSim.
